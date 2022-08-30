@@ -60,5 +60,3 @@ scikit-learn
 chainer
 tensorboard
 tensorboardX
-
-#test
