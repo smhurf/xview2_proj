@@ -1,4 +1,4 @@
-# Data analysis
+# Project Information
 - Document here the project: xview2_proj
 - Description: Project for LeWagon Data Science Bootcamp #912
 - Data Source: xView2 challenge (https://xview2.org/)
